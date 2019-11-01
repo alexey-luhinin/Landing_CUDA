@@ -9,7 +9,7 @@ input::-webkit-input-placeholder { color: #fff; }
 textarea::-webkit-input-placeholder { color: #fff; }
 
 main{
-    max-width: 1450px;
+    min-width: 1300px;
     width: 100%;
     margin: 0 auto;
 }
